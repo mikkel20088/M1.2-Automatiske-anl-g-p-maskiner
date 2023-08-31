@@ -1,0 +1,14 @@
+<OnlineDevices>
+  <OnlineDevice VendorID="2A" DeviceID="313" TypeID="2A0313" DeviceType="ET200SP" IsInSameSubnetAsOwnPgPc="False">
+    <DeviceRole>Device</DeviceRole>
+    <OrderNumber>6ES7 155-6AU00-0BN0</OrderNumber>
+    <NameOfStation>ioxadevicexb1652a</NameOfStation>
+    <MacAddress>28-63-36-0D-67-B5</MacAddress>
+    <IPAddress>192.168.1.28</IPAddress>
+    <SubnetMask>0.0.0.0</SubnetMask>
+    <RevisionPrefix>V</RevisionPrefix>
+    <RevisionVersionMajor>1</RevisionVersionMajor>
+    <RevisionVersionMinor>1</RevisionVersionMinor>
+    <Modules />
+  </OnlineDevice>
+</OnlineDevices>
